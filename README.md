@@ -1,6 +1,6 @@
 ### Hi 👋
 
-Welcome to my github page, I am Sina, a full-stack web developer.
+Welcome to my GitHub page, I am Sina, a Full-Stack Web Developer.
 
 If you are interested in my works please consider checking my personal organization __[ElegantWeb](https://github.com/elegantweb)__. 🚀
 
